@@ -1,4 +1,4 @@
-# Paper1
+# TOPICUNDEDCIDED
 
 This repository contains all the information for the first paper assignment in sta304
 
