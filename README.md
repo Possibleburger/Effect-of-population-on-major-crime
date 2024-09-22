@@ -1,4 +1,4 @@
-# Effect of population on crime
+# Effect of population on crime indicators
 
 This repository contains all the information for the first paper assignment in sta304
 
